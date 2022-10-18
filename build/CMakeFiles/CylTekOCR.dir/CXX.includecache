@@ -358,7 +358,7 @@ vector
 tensorflow/lite/c/common.h
 ../include/tensorflow/lite/tensorflow/lite/c/common.h
 
-/home/pi/Ken-OCR-1.9.7/src/CgmhData.hpp
+/home/pi/Documents/Ken-OCR-v1.9.7/src/CgmhData.hpp
 stdio.h
 -
 string.h
@@ -382,19 +382,19 @@ curl/curl.h
 jsoncpp/json/json.h
 -
 
-/home/pi/Ken-OCR-1.9.7/src/CvxText.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/CvxText.h
 ft2build.h
 -
 opencv2/opencv.hpp
 -
 
-/home/pi/Ken-OCR-1.9.7/src/cvui.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/cvui.h
 cvui.h
-/home/pi/Ken-OCR-1.9.7/src/cvui.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/cvui.h
 opencv2/opencv.hpp
 -
 cvui.h
-/home/pi/Ken-OCR-1.9.7/src/cvui.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/cvui.h
 iostream
 -
 vector
@@ -410,7 +410,7 @@ opencv2/highgui/highgui.hpp
 opencv2/core/core.hpp
 -
 
-/home/pi/Ken-OCR-1.9.7/src/loguru.hpp
+/home/pi/Documents/Ken-OCR-v1.9.7/src/loguru.hpp
 loguru.hpp
 -
 sal.h
@@ -424,7 +424,7 @@ sstream
 string
 -
 
-/home/pi/Ken-OCR-1.9.7/src/main.cpp
+/home/pi/Documents/Ken-OCR-v1.9.7/src/main.cpp
 iostream
 -
 fstream
@@ -462,23 +462,23 @@ stdlib.h
 string.h
 -
 CvxText.h
-/home/pi/Ken-OCR-1.9.7/src/CvxText.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/CvxText.h
 cvui.h
-/home/pi/Ken-OCR-1.9.7/src/cvui.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/cvui.h
 CgmhData.hpp
-/home/pi/Ken-OCR-1.9.7/src/CgmhData.hpp
+/home/pi/Documents/Ken-OCR-v1.9.7/src/CgmhData.hpp
 loguru.hpp
-/home/pi/Ken-OCR-1.9.7/src/loguru.hpp
+/home/pi/Documents/Ken-OCR-v1.9.7/src/loguru.hpp
 tensorflow/lite/interpreter.h
-/home/pi/Ken-OCR-1.9.7/src/tensorflow/lite/interpreter.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/tensorflow/lite/interpreter.h
 tensorflow/lite/kernels/register.h
-/home/pi/Ken-OCR-1.9.7/src/tensorflow/lite/kernels/register.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/tensorflow/lite/kernels/register.h
 tensorflow/lite/string_util.h
-/home/pi/Ken-OCR-1.9.7/src/tensorflow/lite/string_util.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/tensorflow/lite/string_util.h
 tensorflow/lite/examples/label_image/get_top_n.h
-/home/pi/Ken-OCR-1.9.7/src/tensorflow/lite/examples/label_image/get_top_n.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/tensorflow/lite/examples/label_image/get_top_n.h
 tensorflow/lite/model.h
-/home/pi/Ken-OCR-1.9.7/src/tensorflow/lite/model.h
+/home/pi/Documents/Ken-OCR-v1.9.7/src/tensorflow/lite/model.h
 
 /usr/include/freetype2/freetype/config/ftheader.h
 

@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/pi/Ken-OCR-1.9.7/src/App.cpp" "/home/pi/Ken-OCR-1.9.7/build/CMakeFiles/CylTekOCR.dir/src/App.cpp.o"
-  "/home/pi/Ken-OCR-1.9.7/src/CgmhData.cpp" "/home/pi/Ken-OCR-1.9.7/build/CMakeFiles/CylTekOCR.dir/src/CgmhData.cpp.o"
-  "/home/pi/Ken-OCR-1.9.7/src/CvxText.cpp" "/home/pi/Ken-OCR-1.9.7/build/CMakeFiles/CylTekOCR.dir/src/CvxText.cpp.o"
-  "/home/pi/Ken-OCR-1.9.7/src/loguru.cpp" "/home/pi/Ken-OCR-1.9.7/build/CMakeFiles/CylTekOCR.dir/src/loguru.cpp.o"
-  "/home/pi/Ken-OCR-1.9.7/src/main.cpp" "/home/pi/Ken-OCR-1.9.7/build/CMakeFiles/CylTekOCR.dir/src/main.cpp.o"
+  "/home/pi/Documents/Ken-OCR-v1.9.7/src/App.cpp" "/home/pi/Documents/Ken-OCR-v1.9.7/build/CMakeFiles/CylTekOCR.dir/src/App.cpp.o"
+  "/home/pi/Documents/Ken-OCR-v1.9.7/src/CgmhData.cpp" "/home/pi/Documents/Ken-OCR-v1.9.7/build/CMakeFiles/CylTekOCR.dir/src/CgmhData.cpp.o"
+  "/home/pi/Documents/Ken-OCR-v1.9.7/src/CvxText.cpp" "/home/pi/Documents/Ken-OCR-v1.9.7/build/CMakeFiles/CylTekOCR.dir/src/CvxText.cpp.o"
+  "/home/pi/Documents/Ken-OCR-v1.9.7/src/loguru.cpp" "/home/pi/Documents/Ken-OCR-v1.9.7/build/CMakeFiles/CylTekOCR.dir/src/loguru.cpp.o"
+  "/home/pi/Documents/Ken-OCR-v1.9.7/src/main.cpp" "/home/pi/Documents/Ken-OCR-v1.9.7/build/CMakeFiles/CylTekOCR.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
